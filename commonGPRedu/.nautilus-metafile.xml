@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<directory>
+  <file name="gp1_stn" default_component="OAFIID:nautilus_file_manager_icon_view:42681b21-d5ca-4837-87d2-394d88ecc058"/>
+  <file name="GP1.p" icon_position="147,169"/>
+</directory>
